@@ -1,0 +1,39 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.egg-info/
+*.log
+*.tmp
+
+# -------------------------
+# Entornos
+# -------------------------
+.env
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# -------------------------
+# Salidas del proyecto se debeirna quitar, pero para ver desde el origen los dejo
+# -------------------------
+#outputs/
+#reports/*.csv
+#reports/*.xlsx
+#outputs/*.png
+#outputs/*.csv
+
+# -------------------------
+# Datos sensibles o locales
+# -------------------------
+data/new_items_dataset.csv
+
+# -------------------------
+# Mac / Linux / Windows
+# -------------------------
+.DS_Store
+Thumbs.db
