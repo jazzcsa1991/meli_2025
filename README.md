@@ -106,8 +106,9 @@ pip install -r requirements.txt
 ```
 
 ## Cómo ejecutar
-poner en data el csv data/new_items_dataset.csv
-Desde el directorio raíz:
+-Poner en data el csv data/new_items_dataset.csv
+
+-Desde el directorio raíz:
 
 ```bash
 python src/main.py
